@@ -1,0 +1,6 @@
+# backend/.gitignore or root .gitignore
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
